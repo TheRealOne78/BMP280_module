@@ -2,9 +2,9 @@ GroundStudio BMP280 module
 ====================================
 ![BMx280 module REV1 0 0](https://github.com/GroundStudio/BMP280_module/assets/77836107/54057962-acfc-4339-be3b-6fcf7e464a43)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
+Get it from [ardushop.ro](https://ardushop.ro/en/groundstudio/1004-modul-senzor-presiune-atmosferica-bmp280-groundstudio-6427854000460.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
